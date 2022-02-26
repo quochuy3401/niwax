@@ -1,0 +1,16 @@
+#scrollToTop {
+    height: 50px;
+    width: 30px;
+    line-height: 50px;
+    color: #fff !important;
+    background: #63cdda;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999999;
+    text-align: center;
+    border-radius: 15px;
+  }
+  #scrollToTop:hover {
+    background: #778beb;
+  }
